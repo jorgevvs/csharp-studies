@@ -1,0 +1,14 @@
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.exe
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.deps.json
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.json
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.dev.json
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.dll
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.pdb
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.csproj.AssemblyReference.cache
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfoInputs.cache
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfo.cs
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.dll
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.pdb
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.genruntimeconfig.cache
