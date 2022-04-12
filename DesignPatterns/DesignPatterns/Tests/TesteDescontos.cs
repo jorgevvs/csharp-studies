@@ -96,8 +96,6 @@ namespace DesignPatterns.Tests
 
             // Assert
             Assert.Equal(0, desconto);
-
         }
-
     }
 }
