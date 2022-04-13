@@ -18,7 +18,7 @@ namespace DesignPatterns.Tests
             conta.Saca(600);
             conta.Deposita(600);
 
-            // Act 
+            // Assert 
             Assert.Equal(470, conta.Saldo);
         }
 
