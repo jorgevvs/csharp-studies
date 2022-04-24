@@ -1,0 +1,36 @@
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.exe
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.deps.json
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.json
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.dev.json
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.dll
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Contacts.pdb
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.csproj.AssemblyReference.cache
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfoInputs.cache
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfo.cs
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.dll
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.pdb
+C:\Users\Jorgevvs\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Contacts.genruntimeconfig.cache
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\Contacts.exe
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\Contacts.deps.json
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.json
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.dev.json
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\Contacts.dll
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\Contacts.pdb
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects VS\mentoria_01\Agenda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.csproj.AssemblyReference.cache
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfoInputs.cache
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfo.cs
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.csproj.CoreCompileInputs.cache
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.csproj.CopyComplete
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.dll
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.pdb
+E:\Projects VS\mentoria_01\Agenda\obj\Debug\netcoreapp3.1\Contacts.genruntimeconfig.cache
