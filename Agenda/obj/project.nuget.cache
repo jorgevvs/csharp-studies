@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mu+fn0BkIjKhFGHiqn36x2uJ9q1rS1R/JM7a3c//7dJ5ga2pHASr75zyDv4Amt3CdU4BRjL3MyLbRSeSVKPSfw==",
+  "dgSpecHash": "lMBlkNvI3v9TTIAUC8SQdEY8APps9q0jfQBImeZW6ZIyfsD5lYCfmYfu0bq6n3YeT59CmOxe+mZ8poptXScjsw==",
   "success": true,
-  "projectFilePath": "E:\\Projects VS\\mentoria_01\\Agenda\\Contacts.csproj",
+  "projectFilePath": "C:\\Users\\jorge\\Desktop\\csharp-studies\\Agenda\\Contacts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects VS\\mentoria_01\\Agenda\\Contacts.csproj": {}
+    "C:\\Users\\jorge\\Desktop\\csharp-studies\\Agenda\\Contacts.csproj": {}
   },
   "projects": {
-    "E:\\Projects VS\\mentoria_01\\Agenda\\Contacts.csproj": {
+    "C:\\Users\\jorge\\Desktop\\csharp-studies\\Agenda\\Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects VS\\mentoria_01\\Agenda\\Contacts.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\Desktop\\csharp-studies\\Agenda\\Contacts.csproj",
         "projectName": "Contacts",
-        "projectPath": "E:\\Projects VS\\mentoria_01\\Agenda\\Contacts.csproj",
+        "projectPath": "C:\\Users\\jorge\\Desktop\\csharp-studies\\Agenda\\Contacts.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects VS\\mentoria_01\\Agenda\\obj\\",
+        "outputPath": "C:\\Users\\jorge\\Desktop\\csharp-studies\\Agenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",

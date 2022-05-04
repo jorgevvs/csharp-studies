@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vHS/OMU/TZS37WolcwYMNJ6Aa+KhVuFQSb0BKop0zxAyU1SFt10kaFeWVe9LmFguyEwAODW2gV9QEj3T+2aa2A==",
+  "dgSpecHash": "isw0ZSGMhuV8ZIJBKWqc/wJorgPld/7iada9DJQrY245UF3IJzQdTjZbPojk8sjvEw8DsfVIsqorjMY6/hy4nw==",
   "success": true,
-  "projectFilePath": "E:\\Projects VS\\mentoria_01\\StoreDataBase\\StoreDataBase.csproj",
+  "projectFilePath": "C:\\Users\\jorge\\Desktop\\csharp-studies\\StoreDataBase\\StoreDataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

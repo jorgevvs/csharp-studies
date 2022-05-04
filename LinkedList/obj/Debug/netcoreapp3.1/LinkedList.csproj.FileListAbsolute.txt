@@ -1,0 +1,14 @@
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.AssemblyReference.cache
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache

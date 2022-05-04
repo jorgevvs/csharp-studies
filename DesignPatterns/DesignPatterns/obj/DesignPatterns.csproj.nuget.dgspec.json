@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jorgevvs\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {}
+    "C:\\Users\\jorge\\Desktop\\csharp-studies\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jorgevvs\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {
+    "C:\\Users\\jorge\\Desktop\\csharp-studies\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jorgevvs\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\Desktop\\csharp-studies\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
         "projectName": "DesignPatterns",
-        "projectPath": "C:\\Users\\Jorgevvs\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
-        "packagesPath": "C:\\Users\\Jorgevvs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jorgevvs\\source\\repos\\DesignPatterns\\DesignPatterns\\obj\\",
+        "projectPath": "C:\\Users\\jorge\\Desktop\\csharp-studies\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\Desktop\\csharp-studies\\DesignPatterns\\DesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jorgevvs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

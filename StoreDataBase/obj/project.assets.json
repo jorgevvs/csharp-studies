@@ -557,11 +557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects VS\\mentoria_01\\StoreDataBase\\StoreDataBase.csproj",
+      "projectUniqueName": "C:\\Users\\jorge\\Desktop\\csharp-studies\\StoreDataBase\\StoreDataBase.csproj",
       "projectName": "StoreDataBase",
-      "projectPath": "E:\\Projects VS\\mentoria_01\\StoreDataBase\\StoreDataBase.csproj",
+      "projectPath": "C:\\Users\\jorge\\Desktop\\csharp-studies\\StoreDataBase\\StoreDataBase.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects VS\\mentoria_01\\StoreDataBase\\obj\\",
+      "outputPath": "C:\\Users\\jorge\\Desktop\\csharp-studies\\StoreDataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",

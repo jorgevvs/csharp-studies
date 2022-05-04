@@ -1,0 +1,14 @@
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\Colecoes.csproj.AssemblyReference.cache
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\Colecoes.AssemblyInfoInputs.cache
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\Colecoes.AssemblyInfo.cs
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\Colecoes.csproj.CoreCompileInputs.cache
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\Colecoes.exe
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\Colecoes.deps.json
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\Colecoes.runtimeconfig.json
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\Colecoes.runtimeconfig.dev.json
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\Colecoes.dll
+E:\Projects VS\mentoria_01\LinkedList\bin\Debug\netcoreapp3.1\Colecoes.pdb
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\Colecoes.dll
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\Colecoes.pdb
+E:\Projects VS\mentoria_01\LinkedList\obj\Debug\netcoreapp3.1\Colecoes.genruntimeconfig.cache
