@@ -20,3 +20,42 @@ E:\Projects VS\mentoria_01\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.d
 E:\Projects VS\mentoria_01\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.pdb
 E:\Projects VS\mentoria_01\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.genruntimeconfig.cache
 E:\Projects VS\mentoria_01\StoreDataBase\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\StoreDataBase.exe
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\StoreDataBase.deps.json
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\StoreDataBase.runtimeconfig.json
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\StoreDataBase.runtimeconfig.dev.json
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\StoreDataBase.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\StoreDataBase.pdb
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.AssemblyInfoInputs.cache
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.AssemblyInfo.cs
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.csproj.CopyComplete
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.dll
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.pdb
+C:\Users\jorge\Desktop\csharp-studies\StoreDataBase\obj\Debug\netcoreapp3.1\StoreDataBase.genruntimeconfig.cache

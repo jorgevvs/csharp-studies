@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicShopApi", "MagicShopApi\MagicShopApi.csproj", "{636CD95F-2F7D-4FBA-BB6C-70E80FF3A9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636CD95F-2F7D-4FBA-BB6C-70E80FF3A9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636CD95F-2F7D-4FBA-BB6C-70E80FF3A9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636CD95F-2F7D-4FBA-BB6C-70E80FF3A9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636CD95F-2F7D-4FBA-BB6C-70E80FF3A9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53F3EB3-64A9-4FF5-ADE8-FEBA999E7A3C}
+	EndGlobalSection
+EndGlobal

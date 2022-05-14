@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StoreDataBase"
+    "\\Bank",
+    "\\DesignPatterns",
+    "\\StoreDataBase",
+    "\\StoreDataBase\\Repositories"
   ],
-  "SelectedNode": "\\StoreDataBase\\StoreDataBase.csproj",
+  "SelectedNode": "\\StoreDataBase\\Repositories\\SectionRepository.cs",
   "PreviewInSolutionExplorer": false
 }

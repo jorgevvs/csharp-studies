@@ -1,8 +1,5 @@
 ﻿using StoreDataBase.Entities;
-using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Text;
+
 using Dapper;
 
 namespace StoreDataBase.Repositories
